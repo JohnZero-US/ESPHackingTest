@@ -1,0 +1,20 @@
+﻿  ESPHackingTest.cpp
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(78): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(213): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(215): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(218): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(220): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(257): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(259): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(289): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(291): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(300): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(299): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(298): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(327): warning C4244: “*=”: 从“float”转换到“LONG”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(328): warning C4244: “*=”: 从“float”转换到“LONG”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(329): warning C4244: “*=”: 从“float”转换到“LONG”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(330): warning C4244: “*=”: 从“float”转换到“LONG”，可能丢失数据
+e:\download\esphackingtest-master\esphackingtest\esphackingtest.cpp(353): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  LINK : 没有找到 E:\download\ESPHackingTest-master\Debug\ESPHackingTest.exe 或上一个增量链接没有生成它；正在执行完全链接
+  ESPHackingTest.vcxproj -> E:\download\ESPHackingTest-master\Debug\ESPHackingTest.exe
